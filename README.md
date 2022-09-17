@@ -1,4 +1,11 @@
-# freact
+# project template for fastapi + reactjs
+
+Generate from https://github.com/Buuntu/fastapi-react
+Then find a bug caused by React 18，solved by suggestion:
+https://github.com/facebook/react/issues/24304
+https://github.com/remix-run/react-router/issues/8794
+
+
 
 ## Features
 
